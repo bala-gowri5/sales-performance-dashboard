@@ -1,10 +1,6 @@
-# sales-performance-dashboard
-A web-based sales analytics dashboard with data visualization and machine learning-based sales prediction.
 # Sales Performance Dashboard
 
 A web-based sales analytics dashboard that transforms raw sales data into meaningful business insights through interactive visualizations and machine learning-based sales prediction. The system enables users to analyze sales performance, monitor trends, and forecast future sales using a predictive model.
-
----
 
 ## Features
 
@@ -18,7 +14,6 @@ A web-based sales analytics dashboard that transforms raw sales data into meanin
 - Interactive visualizations using charts
 - User-friendly web interface for business insights
 
----
 
 ## Tech Stack
 
@@ -37,8 +32,6 @@ A web-based sales analytics dashboard that transforms raw sales data into meanin
 - NumPy
 - Scikit-learn
 - Pickle
-
----
 
 ## Project Structure
 
@@ -62,8 +55,6 @@ sales-performance-dashboard/
 │── README.md
 ```
 
----
-
 ## How It Works
 
 1. Upload a sales dataset in CSV format  
@@ -72,7 +63,6 @@ sales-performance-dashboard/
 4. Sales insights are generated based on categories and regions  
 5. The machine learning model predicts future sales values using user input  
 
----
 
 ## Dashboard Modules
 
@@ -92,7 +82,6 @@ Predicts future sales based on selected input parameters such as:
 ### Insights Module
 Provides analytical insights to support data-driven business decisions.
 
----
 
 ## Installation
 
@@ -141,21 +130,7 @@ http://127.0.0.1:5000
 
 ---
 
-## Screenshots
 
-### Home Page
-(Add Screenshot)
-
-### Dashboard Analytics
-(Add Screenshot)
-
-### Sales Prediction Module
-(Add Screenshot)
-
-### Insights Page
-(Add Screenshot)
-
----
 
 ## API Endpoints
 
